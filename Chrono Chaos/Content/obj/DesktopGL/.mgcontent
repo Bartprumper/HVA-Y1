@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Audio/AudioEffects/button_agree.wav</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Audio/AudioEffects/button_cancel.wav</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Audio/Music/main_menu.mp3</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/bar.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/bullet0.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Fonts/SpriteFont.spritefont</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Fonts/SpriteFont@20px.spritefont</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/green.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Backgrounds/awesomeCavePixelArt.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Backgrounds/cavebackground.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Backgrounds/DarkCastle.jpg</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Backgrounds/dungeonFloor.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/book.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/characters@8x12.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/kasumi.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/vampireMonkey.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/vampireMonkeyDamage.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/Down@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/DownLeft@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/DownRight@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/Left@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/Right@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/Up@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/UpLeft@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Characters/Woman/UpRight@1x3.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/Tiles/tilemap@12x11.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/UI/Button_Big@1x4.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/UI/Button@1x4.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/UI/Frame.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/UI/SelectedGameName.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Images/UI/TextInput@1x2.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/inventory1.png</File>
+    <File>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/progress.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

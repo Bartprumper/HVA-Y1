@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Fonts/SpriteFont@20px.spritefont</SourceFile>
+  <SourceTime>2025-02-12T12:36:13.2787675+01:00</SourceTime>
+  <DestFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/bin/DesktopGL/Fonts/SpriteFont@20px.xnb</DestFile>
+  <DestTime>2025-04-03T18:24:25.9288535+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eh1VwnAVGmc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bartp\\Downloads\\HVA\\Jaar 1\\HVA-Y1\\Chrono Chaos\\Blok3Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bartp\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\monogame.library.sdl\\2.26.5.5\\monogame.library.sdl.2.26.5.5.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\socketio.core\\3.1.2\\socketio.core.3.1.2.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\socketio.serializer.core\\3.1.2\\socketio.serializer.core.3.1.2.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\socketio.serializer.systemtextjson\\3.1.2\\socketio.serializer.systemtextjson.3.1.2.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\socketioclient\\3.1.2\\socketioclient.3.1.2.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
+    "C:\\Users\\Bartp\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Chrono Chaos/Content/Audio/Music/main_menu.mp3</SourceFile>
+  <SourceTime>2025-02-12T12:36:13.2757635+01:00</SourceTime>
+  <DestFile>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Chrono Chaos/Content/bin/DesktopGL/Content/Audio/Music/main_menu.xnb</DestFile>
+  <DestTime>2025-09-03T11:24:51.1445384+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Chrono Chaos/Content/bin/DesktopGL/Content/Audio/Music/main_menu.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

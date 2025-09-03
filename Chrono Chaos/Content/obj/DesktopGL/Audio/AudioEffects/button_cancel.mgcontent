@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Audio/AudioEffects/button_cancel.wav</SourceFile>
+  <SourceTime>2025-02-12T12:36:13.2282189+01:00</SourceTime>
+  <DestFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/bin/DesktopGL/Audio/AudioEffects/button_cancel.xnb</DestFile>
+  <DestTime>2025-04-03T18:24:22.8802808+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

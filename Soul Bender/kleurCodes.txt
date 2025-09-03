@@ -1,0 +1,24 @@
+KLEURCODES VOOR HET INSPAWNEN VAN OBJECTEN MET DE LEVELGENERATOR
+
+Platformen          (0, 0, 0)
+Walls               (100, 100, 100)
+phaseWall           (16, 255, 155)
+Player              (255, 0, 255)
+
+WaterEnemy          (28, 42, 255)
+EarthEnemy          (155, 75, 2)
+FireEnemy           (242, 96, 12)
+AirEnemy            (193, 221, 252)
+SpecialWaterEnemy   (0, 78, 148) 
+SpecialEarthEnemy   (89, 81, 64)
+SpecialFireEnemy    (255, 50, 0)
+SpecialAirEnemy     (224, 235, 239)
+
+upSign              (0, 92, 12)
+downSign            (92, 0, 84)
+leftSign            (103, 105, 0)
+rightSign           (0, 105, 86)
+
+Coin                (255, 255, 0)
+
+Victoryzone         (0, 255, 0)

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/Audio/Music/main_menu.mp3</SourceFile>
+  <SourceTime>2025-02-12T12:36:13.2757635+01:00</SourceTime>
+  <DestFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/bin/DesktopGL/Audio/Music/main_menu.xnb</DestFile>
+  <DestTime>2025-04-03T18:24:25.8286077+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T19:05:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 3 - Bullet Hell/loopaakaarii42/game/Content/bin/DesktopGL/Audio/Music/main_menu.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

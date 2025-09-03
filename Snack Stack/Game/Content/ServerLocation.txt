@@ -1,0 +1,12 @@
+{
+	"debug":
+	{
+		"location": "https://vuuteejuuyaa36-pb4gdg2425.hbo-ict.cloud",
+		"path": "/api/socket.io"
+	},
+	"release":
+	{
+		"location": "https://vuuteejuuyaa36-pb4gdg2425.hbo-ict.cloud",
+		"path": "/api/socket.io"
+	}
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Audio/AudioEffects/button_agree.wav</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Audio/AudioEffects/button_cancel.wav</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Audio/Music/main_menu.mp3</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Fonts/SpriteFont.spritefont</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Fonts/SpriteFont@20px.spritefont</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/Fiche.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/FrituurCell.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/FryingFATTY.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/GridCell.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/gridLockDot.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/gridLockSquare.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/vetCell.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Grid/vetCell2.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Player/frituurschep.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerEmotes/Belgie/PietFrietAngry@13x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerEmotes/Belgie/PietFrietSad@14x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerEmotes/Belgie/PietFrietSpin@9x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerEmotes/Nederland/AdPatatAngry@13x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerEmotes/Nederland/AdPatatSad@14x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerEmotes/Nederland/AdPatatSpin@9x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerEmotes/TheRockEmoteResize@7x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerIdleAnimations/Belgie/PietFrietIdle@10x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerIdleAnimations/Belgie/PietFrietThinking@10x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerIdleAnimations/Nederland/AdPatatIdle@10x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/PlayerIdleAnimations/Nederland/AdPatatThinking@10x1.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/SnackDrops/BitterBalSpriteNew2.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/Sprites/SnackDrops/GehaktBalSpriteNew2.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/Button_Big@1x4.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/Button@1x4.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/ChatBubbleWhite.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/Frame.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/Frikandel.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/GameBackground.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/Kroket.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/SelectedGameName.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/SnackBackground.jpg</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/SnackBackground2_1200x900.jpg</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/SnackStackLogo.png</File>
+    <File>C:/Users/Bartp/Downloads/HVA/Jaar 1/HVA-Y1/Snack Stack/Game/Content/Images/UI/TextInput@1x2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

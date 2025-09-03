@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 4 - Multiplayer/vuuteejuuyaa36/game/Content/Audio/AudioEffects/button_cancel.wav</SourceFile>
+  <SourceTime>2025-04-21T11:59:57.1319967+02:00</SourceTime>
+  <DestFile>c:/Users/Bartp/Downloads/HVA/Jaar 1/Project 4 - Multiplayer/vuuteejuuyaa36/game/Content/bin/DesktopGL/Audio/AudioEffects/button_cancel.xnb</DestFile>
+  <DestTime>2025-06-10T17:16:47.5181196+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

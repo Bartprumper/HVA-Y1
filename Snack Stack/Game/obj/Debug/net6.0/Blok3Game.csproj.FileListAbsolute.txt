@@ -1,0 +1,233 @@
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Audio\AudioEffects\button_agree.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Audio\AudioEffects\button_cancel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Audio\Music\main_menu.ogg
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Audio\Music\main_menu.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Fonts\SpriteFont.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Fonts\SpriteFont@20px.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\Button@1x4.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\Button_Big@1x4.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\Frame.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\SelectedGameName.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\TextInput@1x2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Blok3Game.exe
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\ServerLocation.txt
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Blok3Game.deps.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Blok3Game.runtimeconfig.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Blok3Game.pdb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\SocketIO.Core.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\SocketIO.Serializer.Core.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\SocketIOClient.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.csproj.AssemblyReference.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.AssemblyInfoInputs.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.AssemblyInfo.cs
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.csproj.CoreCompileInputs.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.csproj.Up2Date
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\refint\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.pdb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\Blok3Game.genruntimeconfig.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\obj\Debug\net6.0\ref\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\Fiche.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\GridCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\FrituurCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\BitterBalSpriteResize2@1x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Player\frituurschep.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\gridLockDot.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\vetCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\vetCell2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\Frikandel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\Kroket.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\SnackBackground.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\SnackBackground2_1200x900.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\SnackStackLogo.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietAngry@13x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietSad@14x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietSpin@9x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatAngry@13x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatSad@14x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatSpin@9x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\TheRockEmoteResize@7x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Belgie\PietFrietIdle@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Belgie\PietFrietThinking@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Nederland\AdPatatIdle@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Nederland\AdPatatThinking@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\FryingFATTY.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\ChatBubbleWhite.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\BitterBalSpriteNew2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\GehaktBalSpriteNew2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\UI\GameBackground.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\Grid\gridLockSquare.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\PowerUps\Frikandelbom.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\PowerUps\KaasStengel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\Project 4 - Multiplayer\vuuteejuuyaa36\game\bin\Debug\net6.0\Content\Images\PowerUps\TeamSwitch.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\PowerUps\Frikandelbom.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\PowerUps\KaasStengel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\PowerUps\TeamSwitch.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\BitterBalSpriteResize2@1x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Audio\AudioEffects\button_agree.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Audio\AudioEffects\button_cancel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Audio\Music\main_menu.ogg
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Audio\Music\main_menu.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Fonts\SpriteFont.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Fonts\SpriteFont@20px.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\Fiche.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\FrituurCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\FryingFATTY.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\GridCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\gridLockDot.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\gridLockSquare.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\vetCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Grid\vetCell2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Player\frituurschep.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietAngry@13x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietSad@14x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietSpin@9x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatAngry@13x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatSad@14x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatSpin@9x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\TheRockEmoteResize@7x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Belgie\PietFrietIdle@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Belgie\PietFrietThinking@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Nederland\AdPatatIdle@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Nederland\AdPatatThinking@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\BitterBalSpriteNew2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\GehaktBalSpriteNew2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\Button@1x4.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\Button_Big@1x4.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\ChatBubbleWhite.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\Frame.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\Frikandel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\GameBackground.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\Kroket.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\SelectedGameName.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\SnackBackground.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\SnackBackground2_1200x900.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\SnackStackLogo.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\Images\UI\TextInput@1x2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Blok3Game.exe
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Content\ServerLocation.txt
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Blok3Game.deps.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Blok3Game.runtimeconfig.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\Blok3Game.pdb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\SocketIO.Core.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\SocketIO.Serializer.Core.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\SocketIOClient.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.csproj.AssemblyReference.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.AssemblyInfoInputs.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.AssemblyInfo.cs
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.csproj.CoreCompileInputs.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.sourcelink.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.csproj.Up2Date
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\refint\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.pdb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\Blok3Game.genruntimeconfig.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\obj\Debug\net6.0\ref\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\PowerUps\Frikandelbom.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\PowerUps\KaasStengel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\PowerUps\TeamSwitch.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\BitterBalSpriteResize2@1x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Audio\AudioEffects\button_agree.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Audio\AudioEffects\button_cancel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Audio\Music\main_menu.ogg
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Audio\Music\main_menu.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Fonts\SpriteFont.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Fonts\SpriteFont@20px.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\Fiche.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\FrituurCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\FryingFATTY.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\GridCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\gridLockDot.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\gridLockSquare.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\vetCell.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Grid\vetCell2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Player\frituurschep.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietAngry@13x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietSad@14x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Belgie\PietFrietSpin@9x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatAngry@13x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatSad@14x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\Nederland\AdPatatSpin@9x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerEmotes\TheRockEmoteResize@7x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Belgie\PietFrietIdle@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Belgie\PietFrietThinking@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Nederland\AdPatatIdle@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\PlayerIdleAnimations\Nederland\AdPatatThinking@10x1.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\BitterBalSpriteNew2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\Sprites\SnackDrops\GehaktBalSpriteNew2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\Button@1x4.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\Button_Big@1x4.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\ChatBubbleWhite.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\Frame.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\Frikandel.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\GameBackground.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\Kroket.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\SelectedGameName.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\SnackBackground.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\SnackBackground2_1200x900.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\SnackStackLogo.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\Images\UI\TextInput@1x2.xnb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Blok3Game.exe
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Content\ServerLocation.txt
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Blok3Game.deps.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Blok3Game.runtimeconfig.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\Blok3Game.pdb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\SocketIO.Core.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\SocketIO.Serializer.Core.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\SocketIOClient.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.csproj.AssemblyReference.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.AssemblyInfoInputs.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.AssemblyInfo.cs
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.csproj.CoreCompileInputs.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.sourcelink.json
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.csproj.Up2Date
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\refint\Blok3Game.dll
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.pdb
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\Blok3Game.genruntimeconfig.cache
+C:\Users\Bartp\Downloads\HVA\Jaar 1\HVA-Y1\Snack Stack\Game\obj\Debug\net6.0\ref\Blok3Game.dll
